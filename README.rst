@@ -1,4 +1,4 @@
-gym_tetris
+gym-tetris
 ******
 
 Tetris OpenAI gym environment.
@@ -28,7 +28,7 @@ And finally clone and install this package
 .. code:: shell
 
     git clone https://github.com/lusob/gym-tetris.git 
-    cd gym_tetris/
+    cd gym-tetris/
     pip install -e .
 
 Example
